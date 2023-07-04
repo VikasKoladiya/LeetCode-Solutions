@@ -22,7 +22,7 @@ public:
     }
 
     int shipWithinDays(vector<int>& weights, int days) {
-        int start=*max_element(weights.begin(),weights.end()),end=0;
+        int start=1,end=0;
         int ans = -1;
         for(auto i:weights){
             end+=i;
