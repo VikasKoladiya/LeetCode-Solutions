@@ -1,18 +1,20 @@
+#include <vector>
+using namespace std;
+
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        int n = nums.size();
-        vector<int> posi(30000);
-        vector<int> neg(30000);
-        for (int i = 0; i < n; i++) {
+        int posi[30000] = {0};
+        int neg[30000] = {0};
+        for (int i = 0; i < nums.size(); i++) {
             if (nums[i] < 0) {
-                neg[nums[i] * (-1)]++;
+                neg[-nums[i]]++;
             } else {
                 posi[nums[i]]++;
             }
         }
         
-        for (int i = 0; i <30000; i++) {
+        for (int i = 0; i < 30000; i++) {
             if (neg[i] == 1) {
                 return i * (-1);
             }
