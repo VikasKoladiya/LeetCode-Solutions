@@ -9,11 +9,10 @@ public:
             num=-num;
             ans+='-';
         }
-        int n =num;
-        while(n!=0){
-            int rem = n%7;
+        while(num!=0){
+            int rem = num%7;
             temp+=to_string(rem);
-            n/=7;
+            num/=7;
         }
         reverse(temp.begin(),temp.end());
         return ans+temp;
