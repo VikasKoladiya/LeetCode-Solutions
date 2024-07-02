@@ -1,12 +1,12 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
-    std::string modifiedString;
+    string modifiedString;
 
     // Construct a modified string by ignoring special characters
     for (char c : s) {
-        if (std::isalnum(c)) {
-            modifiedString += std::tolower(c);
+        if (isalnum(c)) {
+            modifiedString += tolower(c);
         }
     }
 
