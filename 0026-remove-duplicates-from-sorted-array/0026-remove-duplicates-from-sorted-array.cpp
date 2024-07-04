@@ -4,13 +4,13 @@
 class Solution {
 public:
     int removeDuplicates(std::vector<int>& nums) {
-        int j=0;
+        int j=1;
         for(int i=1;i<nums.size();i++){
-           if(nums[j]!=nums[i]){
-            j++;
+           if(nums[i]!=nums[i-1]){
             nums[j]=nums[i];
+            j++;
            } 
         }
-        return j+1;
+        return j;
     }
 };
