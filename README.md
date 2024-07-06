@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [1293-three-consecutive-odds](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1293-three-consecutive-odds) |
+| [2792-neighboring-bitwise-xor](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2792-neighboring-bitwise-xor) |
 ## Two Pointers
 |  |
 | ------- |
@@ -61,4 +62,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2792-neighboring-bitwise-xor](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2792-neighboring-bitwise-xor) |
 <!---LeetCode Topics End-->
