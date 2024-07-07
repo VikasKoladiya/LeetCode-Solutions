@@ -14,12 +14,14 @@ Collection of LeetCode questions to ace the coding interview!
 | [0007-reverse-integer](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Array
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1293-three-consecutive-odds](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1293-three-consecutive-odds) |
 | [2792-neighboring-bitwise-xor](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2792-neighboring-bitwise-xor) |
 ## Two Pointers
@@ -47,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Stack
 |  |
@@ -68,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [2792-neighboring-bitwise-xor](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2792-neighboring-bitwise-xor) |
 ## Tree
 |  |
@@ -85,4 +89,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0100-same-tree) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
