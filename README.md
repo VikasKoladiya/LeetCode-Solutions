@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [1293-three-consecutive-odds](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1293-three-consecutive-odds) |
 | [2792-neighboring-bitwise-xor](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2792-neighboring-bitwise-xor) |
 | [3226-minimum-number-game](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/3226-minimum-number-game) |
