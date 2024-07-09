@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1642-water-bottles](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1642-water-bottles) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Array
 |  |
 | ------- |
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [1293-three-consecutive-odds](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1293-three-consecutive-odds) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2792-neighboring-bitwise-xor](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2792-neighboring-bitwise-xor) |
 | [3226-minimum-number-game](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/3226-minimum-number-game) |
 ## Two Pointers
@@ -74,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -114,5 +117,10 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1642-water-bottles) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3226-minimum-number-game](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/3226-minimum-number-game) |
+## Recursion
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
