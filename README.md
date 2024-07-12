@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Greedy
