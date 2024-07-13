@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0125-valid-palindrome](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3396-valid-word](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/3396-valid-word) |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0205-isomorphic-strings](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Stack
 |  |
@@ -81,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Bit Manipulation
 |  |
@@ -128,4 +131,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
