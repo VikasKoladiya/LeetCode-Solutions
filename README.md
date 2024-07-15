@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0009-palindrome-number](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [1642-water-bottles](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Array
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3396-valid-word](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/3396-valid-word) |
@@ -130,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [1642-water-bottles](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3226-minimum-number-game](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/3226-minimum-number-game) |
