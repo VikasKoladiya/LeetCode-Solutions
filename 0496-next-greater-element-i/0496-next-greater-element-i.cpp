@@ -2,23 +2,19 @@ class Solution {
 public:
     vector<int> nextGreaterElement(vector<int>& nums1, vector<int>& nums2) {
         vector<int> v;
-        for(int i=0;i<nums1.size();i++){
-            bool flag = false,ischeck=true;
-            for(int j=0;j<nums2.size();j++){
-                if(nums1[i]==nums2[j]){
-                    // cout<<"inside"<<endl;
-                    // cout<<nums1[i]<<" "<<nums2[j];
-                    flag = true;
-                }
-                if(flag && (nums1[i]<nums2[j]) && (nums1[i]!=nums2[j])){
-                    ischeck = false;
-                    v.push_back(nums2[j]);
-                    break;
-                }
+        unordered_map<int,int> ans;
+        stack<int> st;
+        st.push(-1);
+
+        for(int i=nums2.size()-1; i>=0; i--){
+            int num = nums2[i];
+            while(st.top()!=-1 && st.top()<=num){
+                st.pop();
             }
-            if(ischeck)
-                v.push_back(-1);
+            ans[num] = st.top();
+            st.push(num);
         }
+        for(auto n : nums1) v.push_back(ans[n]);
         return v;
     }
 };
