@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -134,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Sorting
 |  |
