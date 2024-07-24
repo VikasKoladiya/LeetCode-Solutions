@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0414-third-maximum-number](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0561-array-partition](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [1019-squares-of-a-sorted-array](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1293-three-consecutive-odds) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Design
 |  |
@@ -144,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
+| [0561-array-partition](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [1019-squares-of-a-sorted-array](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [2502-sort-the-people](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2566-number-of-unequal-triplets-in-array) |
@@ -175,4 +178,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
