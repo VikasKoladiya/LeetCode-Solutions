@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0792-binary-search](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0792-binary-search) |
+| [0948-sort-an-array](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1293-three-consecutive-odds) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0948-sort-an-array](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0948-sort-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -149,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0561-array-partition) |
+| [0948-sort-an-array](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [2502-sort-the-people](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2566-number-of-unequal-triplets-in-array) |
@@ -156,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0948-sort-an-array](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0948-sort-an-array) |
 | [3226-minimum-number-game](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/3226-minimum-number-game) |
 ## Simulation
 |  |
@@ -184,4 +188,17 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0561-array-partition) |
+| [0948-sort-an-array](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0948-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0948-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0948-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0948-sort-an-array) |
 <!---LeetCode Topics End-->
