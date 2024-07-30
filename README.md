@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0205-isomorphic-strings](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0205-isomorphic-strings](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0782-jewels-and-stones](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0782-jewels-and-stones) |
@@ -179,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Monotonic Stack
 |  |
