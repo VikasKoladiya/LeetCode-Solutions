@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0948-sort-an-array](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1293-three-consecutive-odds) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1833-find-the-highest-altitude](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1833-find-the-highest-altitude) |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0387-first-unique-character-in-a-string](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0782-jewels-and-stones](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0782-jewels-and-stones) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2502-sort-the-people) |
