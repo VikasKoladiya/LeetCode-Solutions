@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0412-fizz-buzz](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0782-jewels-and-stones](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0782-jewels-and-stones) |
+| [1777-determine-if-two-strings-are-close](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0782-jewels-and-stones](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0782-jewels-and-stones) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1777-determine-if-two-strings-are-close](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -187,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0948-sort-an-array](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1777-determine-if-two-strings-are-close](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [2502-sort-the-people](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [3226-minimum-number-game](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/3226-minimum-number-game) |
@@ -211,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0383-ransom-note](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1777-determine-if-two-strings-are-close](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Monotonic Stack
 |  |
