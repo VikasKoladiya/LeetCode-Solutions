@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -185,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0792-binary-search) |
