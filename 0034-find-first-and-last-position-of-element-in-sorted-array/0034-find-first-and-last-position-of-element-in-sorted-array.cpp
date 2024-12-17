@@ -1,25 +1,51 @@
 class Solution {
 public:
-    vector<int> searchRange(vector<int>& nums, int target) {
-        vector<int> ans = {-1,-1};
-        int count = 0;
-        if(nums.size()==1 && nums[0]==target){
-            return {0,0};
-        }
-        int j = 0;
-        for(int i=0;i<nums.size();i++){
-            if(nums[i]==target){
-                count++;
-                if(j>=2){
-                    ans[1]=i;
-                    continue;
+    int first_index(vector<int> arr,int target){
+        int s = 0;
+        int e = arr.size()-1;
+        int mid = s + (e-s)/2;
+        int index = -1;
+
+        while(s<=e){
+            if(arr[mid]>=target){
+                e = mid-1;
+                if(arr[mid]==target){
+                    index = mid;
                 }
-                ans[j++] = i;
             }
+            else{
+                s = mid+1;
+            }
+            mid = s + (e-s)/2;
         }
-        if(count == 1){
-            return {ans[0],ans[0]};
+        return index;
+    }
+
+    int last_index(vector<int> arr,int target){
+        int s = 0;
+        int e = arr.size()-1;
+        int mid = s + (e-s)/2;
+        int index = -1;
+
+        while(s<=e){
+            if(arr[mid]<=target){
+                s = mid+1;
+                if(arr[mid]==target){
+                    index = mid;
+                }
+            }
+            else{
+                e = mid-1;
+            }
+            mid = s + (e-s)/2;
         }
+        return index;
+    }
+
+    vector<int> searchRange(vector<int>& nums, int target) {
+        vector<int> ans;
+        ans.push_back(first_index(nums,target));
+        ans.push_back(last_index(nums,target));
         return ans;
     }
 };
