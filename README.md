@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0412-fizz-buzz](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [1642-water-bottles](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2032-largest-odd-number-in-string](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Array
 |  |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0782-jewels-and-stones](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0782-jewels-and-stones) |
 | [1777-determine-if-two-strings-are-close](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
+| [2032-largest-odd-number-in-string](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2470-removing-stars-from-a-string](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2470-removing-stars-from-a-string) |
@@ -153,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0561-array-partition](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0890-lemonade-change](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0890-lemonade-change) |
+| [2032-largest-odd-number-in-string](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Design
 |  |
