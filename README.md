@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2032-largest-odd-number-in-string](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2083-three-divisors](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2491-smallest-even-multiple](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2491-smallest-even-multiple) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Array
 |  |
@@ -320,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [2083-three-divisors](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2491-smallest-even-multiple](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2491-smallest-even-multiple) |
 ## Enumeration
 |  |
 | ------- |
