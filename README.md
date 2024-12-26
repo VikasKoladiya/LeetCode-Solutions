@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1642-water-bottles](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2032-largest-odd-number-in-string](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2032-largest-odd-number-in-string) |
+| [2083-three-divisors](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Array
@@ -317,5 +318,10 @@ Collection of LeetCode questions to ace the coding interview!
 ## Number Theory
 |  |
 | ------- |
+| [2083-three-divisors](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
+## Enumeration
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2083-three-divisors) |
 <!---LeetCode Topics End-->
