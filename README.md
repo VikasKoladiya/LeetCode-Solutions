@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2106-find-greatest-common-divisor-of-array](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2507-number-of-common-factors) |
+| [2722-prime-in-diagonal](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2722-prime-in-diagonal) |
 | [2831-number-of-beautiful-pairs](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2831-number-of-beautiful-pairs) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Array
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2502-sort-the-people](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2722-prime-in-diagonal](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2722-prime-in-diagonal) |
 | [2727-number-of-senior-citizens](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2727-number-of-senior-citizens) |
 | [2792-neighboring-bitwise-xor](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2792-neighboring-bitwise-xor) |
 | [2831-number-of-beautiful-pairs](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2831-number-of-beautiful-pairs) |
@@ -317,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [2722-prime-in-diagonal](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2722-prime-in-diagonal) |
 ## Trie
 |  |
 | ------- |
@@ -328,6 +331,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2106-find-greatest-common-divisor-of-array](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2507-number-of-common-factors) |
+| [2722-prime-in-diagonal](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2722-prime-in-diagonal) |
 | [2831-number-of-beautiful-pairs](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2831-number-of-beautiful-pairs) |
 ## Enumeration
 |  |
