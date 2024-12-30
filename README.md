@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0908-middle-of-the-linked-list](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
@@ -344,4 +345,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Linked List
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
