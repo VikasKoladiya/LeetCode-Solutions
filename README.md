@@ -265,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Counting
 |  |
@@ -352,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
