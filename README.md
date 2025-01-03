@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0031-next-permutation](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [0142-linked-list-cycle-ii](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -142,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0142-linked-list-cycle-ii](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -353,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0908-middle-of-the-linked-list) |
