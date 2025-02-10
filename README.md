@@ -131,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2727-number-of-senior-citizens](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2727-number-of-senior-citizens) |
 | [3396-valid-word](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/3396-valid-word) |
+| [3447-clear-digits](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/3447-clear-digits) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -180,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2470-removing-stars-from-a-string](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3447-clear-digits](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/3447-clear-digits) |
 ## Greedy
 |  |
 | ------- |
@@ -274,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2470-removing-stars-from-a-string](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3226-minimum-number-game](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/3226-minimum-number-game) |
+| [3447-clear-digits](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Recursion
 |  |
