@@ -214,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0100-same-tree](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -233,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0100-same-tree](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 ## Binary Search
 |  |
@@ -386,5 +388,6 @@ Collection of LeetCode questions to ace the coding interview!
 ## Binary Search Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
