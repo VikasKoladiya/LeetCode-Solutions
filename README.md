@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+| [1477-product-of-the-last-k-numbers](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1642-water-bottles](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2032-largest-odd-number-in-string](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2032-largest-odd-number-in-string) |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1019-squares-of-a-sorted-array](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1293-three-consecutive-odds) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1477-product-of-the-last-k-numbers](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -195,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0155-min-stack](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [1477-product-of-the-last-k-numbers](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 ## Queue
 |  |
 | ------- |
@@ -331,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
+| [1477-product-of-the-last-k-numbers](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1833-find-the-highest-altitude](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1833-find-the-highest-altitude) |
 | [2102-find-the-middle-index-in-array](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2102-find-the-middle-index-in-array) |
 ## String Matching
@@ -390,4 +394,8 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
