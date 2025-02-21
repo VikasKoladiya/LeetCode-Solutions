@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1833-find-the-highest-altitude) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2102-find-the-middle-index-in-array](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2102-find-the-middle-index-in-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
