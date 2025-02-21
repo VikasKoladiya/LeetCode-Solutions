@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2792-neighboring-bitwise-xor](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2792-neighboring-bitwise-xor) |
 | [2831-number-of-beautiful-pairs](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2831-number-of-beautiful-pairs) |
 | [3226-minimum-number-game](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/3226-minimum-number-game) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Two Pointers
 |  |
