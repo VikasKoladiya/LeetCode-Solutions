@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1293-three-consecutive-odds](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1293-three-consecutive-odds) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
+| [1524-string-matching-in-an-array](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0557-reverse-words-in-a-string-iii](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0782-jewels-and-stones](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0812-rotate-string) |
+| [1524-string-matching-in-an-array](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1777-determine-if-two-strings-are-close](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
@@ -363,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0812-rotate-string) |
+| [1524-string-matching-in-an-array](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1524-string-matching-in-an-array) |
 ## Brainteaser
 |  |
 | ------- |
