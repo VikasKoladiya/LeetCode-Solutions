@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2502-sort-the-people](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2722-prime-in-diagonal](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2722-prime-in-diagonal) |
 | [2727-number-of-senior-citizens](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2727-number-of-senior-citizens) |
 | [2792-neighboring-bitwise-xor](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2792-neighboring-bitwise-xor) |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1894-merge-strings-alternately](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## String
 |  |
 | ------- |
@@ -181,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2502-sort-the-people](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2831-number-of-beautiful-pairs](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2831-number-of-beautiful-pairs) |
 ## Stack
 |  |
