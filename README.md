@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0412-fizz-buzz](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [1477-product-of-the-last-k-numbers](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1642-water-bottles](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1642-water-bottles) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2032-largest-odd-number-in-string](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2083-three-divisors](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2083-three-divisors) |
