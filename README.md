@@ -145,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2107-find-unique-binary-string](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
+| [2406-decode-the-message](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2406-decode-the-message) |
 | [2470-removing-stars-from-a-string](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -186,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2406-decode-the-message](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2406-decode-the-message) |
 | [2502-sort-the-people](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2566-number-of-unequal-triplets-in-array) |
