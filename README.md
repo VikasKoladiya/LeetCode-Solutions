@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2107-find-unique-binary-string](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2388-replace-elements-in-an-array](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2388-replace-elements-in-an-array) |
 | [2502-sort-the-people](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 | [2551-apply-operations-to-an-array](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2566-number-of-unequal-triplets-in-array) |
@@ -189,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2107-find-unique-binary-string](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2388-replace-elements-in-an-array](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2388-replace-elements-in-an-array) |
 | [2406-decode-the-message](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2406-decode-the-message) |
 | [2502-sort-the-people](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -315,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1642-water-bottles](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2388-replace-elements-in-an-array](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2388-replace-elements-in-an-array) |
 | [2470-removing-stars-from-a-string](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
