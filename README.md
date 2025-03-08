@@ -153,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2727-number-of-senior-citizens](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2727-number-of-senior-citizens) |
 | [3396-valid-word](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/3396-valid-word) |
+| [3405-count-the-number-of-special-characters-ii](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3447-clear-digits](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/3447-clear-digits) |
 ## Divide and Conquer
 |  |
@@ -198,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2831-number-of-beautiful-pairs](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2831-number-of-beautiful-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
+| [3405-count-the-number-of-special-characters-ii](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/3405-count-the-number-of-special-characters-ii) |
 ## Stack
 |  |
 | ------- |
