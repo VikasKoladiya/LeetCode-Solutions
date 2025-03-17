@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3226-minimum-number-game](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/3226-minimum-number-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3415-check-if-grid-satisfies-conditions](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Two Pointers
 |  |
@@ -409,6 +410,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [2722-prime-in-diagonal](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2722-prime-in-diagonal) |
 | [3227-find-missing-and-repeated-values](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
+| [3415-check-if-grid-satisfies-conditions](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/3415-check-if-grid-satisfies-conditions) |
 ## Trie
 |  |
 | ------- |
