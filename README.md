@@ -139,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0557-reverse-words-in-a-string-iii](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0782-jewels-and-stones](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0812-rotate-string) |
+| [0889-buddy-strings](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0889-buddy-strings) |
 | [1524-string-matching-in-an-array](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1777-determine-if-two-strings-are-close](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
@@ -186,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0575-distribute-candies) |
 | [0782-jewels-and-stones](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0782-jewels-and-stones) |
+| [0889-buddy-strings](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0889-buddy-strings) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
