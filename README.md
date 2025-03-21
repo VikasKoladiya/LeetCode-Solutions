@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0561-array-partition](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0575-distribute-candies) |
 | [0724-find-pivot-index](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0948-sort-an-array) |
@@ -317,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0414-third-maximum-number](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0561-array-partition) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0948-sort-an-array](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
