@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3227-find-missing-and-repeated-values](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/3415-check-if-grid-satisfies-conditions) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Two Pointers
 |  |
@@ -219,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2831-number-of-beautiful-pairs](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2831-number-of-beautiful-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/3405-count-the-number-of-special-characters-ii) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Stack
 |  |
 | ------- |
@@ -262,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0476-number-complement](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0476-number-complement) |
 | [2308-divide-array-into-equal-pairs](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2792-neighboring-bitwise-xor](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2792-neighboring-bitwise-xor) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Tree
 |  |
 | ------- |
