@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0561-array-partition](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0575-distribute-candies) |
 | [0724-find-pivot-index](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
+| [0747-min-cost-climbing-stairs](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0890-lemonade-change) |
@@ -184,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+| [0747-min-cost-climbing-stairs](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 ## Hash Table
 |  |
 | ------- |
