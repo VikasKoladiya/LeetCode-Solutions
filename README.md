@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0136-single-number](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0213-house-robber-ii](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
 | [0219-contains-duplicate-ii](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
@@ -185,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
+| [0213-house-robber-ii](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 ## Hash Table
