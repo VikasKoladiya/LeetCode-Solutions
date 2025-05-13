@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2032-largest-odd-number-in-string](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2083-three-divisors](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2491-smallest-even-multiple](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2507-number-of-common-factors) |
 | [2649-count-total-number-of-colored-cells](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2649-count-total-number-of-colored-cells) |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2283-sort-even-and-odd-indices-independently](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2308-divide-array-into-equal-pairs](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2388-replace-elements-in-an-array](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2388-replace-elements-in-an-array) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2502-sort-the-people](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 | [2551-apply-operations-to-an-array](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2566-number-of-unequal-triplets-in-array) |
