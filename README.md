@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0238-product-of-array-except-self](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0334-increasing-triplet-subsequence](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
@@ -255,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0561-array-partition](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0890-lemonade-change](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0890-lemonade-change) |
 | [2032-largest-odd-number-in-string](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/2032-largest-odd-number-in-string) |
