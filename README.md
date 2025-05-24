@@ -250,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0234-palindrome-linked-list](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
+| [0937-online-stock-span](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0937-online-stock-span) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -270,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0155-min-stack](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0937-online-stock-span](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0937-online-stock-span) |
 | [1477-product-of-the-last-k-numbers](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 ## Queue
 |  |
@@ -406,6 +408,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0496-next-greater-element-i](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
+| [0937-online-stock-span](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0937-online-stock-span) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Union Find
@@ -506,6 +509,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Data Stream
 |  |
 | ------- |
+| [0937-online-stock-span](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/0937-online-stock-span) |
 | [1477-product-of-the-last-k-numbers](https://github.com/VikasKoladiya/LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 ## Backtracking
 |  |
